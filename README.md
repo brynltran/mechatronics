@@ -1,2 +1,2 @@
-Autonomous Cow Robot Project
+Autonomous Robot Cow
 ![FullRobot](https://github.com/brynltran/mechatronics/assets/82610122/a659597e-0b23-472b-9e34-0cf9bbefd65d)
